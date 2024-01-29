@@ -19,12 +19,12 @@ if ($this->session->userdata('username')) {
     <title><?= $judul_halaman ?></title>
     <link rel="icon" type="image/png" href="<?= base_url(); ?>assets/images/logo/logoBKU.png">
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="<?= base_url(); ?>assets/vendor/bootstrap/css/bootstrap.min.css">
-    <link href="<?= base_url(); ?>assets/vendor/fonts/circular-std/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="<?= base_url(); ?>assets/bootstrap/css/bootstrap.min.css">
+    <link href="<?= base_url(); ?>assets/fonts/circular-std/style.css" rel="stylesheet">
     <link rel="stylesheet" href="<?= base_url(); ?>assets/libs/css/style.css">
-    <link rel="stylesheet" href="<?= base_url(); ?>assets/vendor/fonts/fontawesome/css/fontawesome-all.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>assets/fonts/fontawesome/css/fontawesome-all.css">
 
-     <script src="<?= base_url(); ?>/assets/vendor/jquery/jquery-3.3.1.min.js"></script>
+     <script src="<?= base_url(); ?>/assets/jquery/jquery-3.3.1.min.js"></script>
 
      <script>
          $(document).ready(function(){

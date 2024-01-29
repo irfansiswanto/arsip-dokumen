@@ -22,7 +22,7 @@
 
 <!-- Optional JavaScript -->
     <!-- jquery 3.3.1 -->
-    <script src="<?= base_url(); ?>/assets/vendor/jquery/jquery-3.3.1.min.js"></script>
+    <script src="<?= base_url(); ?>assets/jquery/jquery-3.3.1.min.js"></script>
     <script>
   $( function() {
     $( "#datepicker1" ).datepicker();
@@ -30,23 +30,23 @@
   } );
   </script>
     <!-- bootstap bundle js -->
-    <script src="<?= base_url(); ?>/assets/vendor/bootstrap/js/bootstrap.bundle.js"></script>
+    <script src="<?= base_url(); ?>assets/bootstrap/js/bootstrap.bundle.js"></script>
     <!-- slimscroll js -->
-    <script src="<?= base_url(); ?>/assets/vendor/slimscroll/jquery.slimscroll.js"></script>
+    <script src="<?= base_url(); ?>assets/slimscroll/jquery.slimscroll.js"></script>
     <!-- main js -->
-    <script src="<?= base_url(); ?>/assets/libs/js/main-js.js"></script>
+    <script src="<?= base_url(); ?>assets/libs/js/main-js.js"></script>
 
 
 
-    <script src="<?= base_url(); ?>/assets/libs/bootstrap-daterangepicker/daterangepicker.js"></script>
+    <script src="<?= base_url(); ?>assets/libs/bootstrap-daterangepicker/daterangepicker.js"></script>
 <!-- bootstrap datepicker -->
 <script src="<?= base_url(); ?>assets/libs/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js"></script>
-<script src="<?= base_url(); ?>assets/vendor/datepicker/moment.js"></script>
-    <script src="<?= base_url(); ?>assets/vendor/datepicker/tempusdominus-bootstrap-4.js"></script>
-    <script src="<?= base_url(); ?>assets/vendor/datepicker/datepicker.js"></script>
+<script src="<?= base_url(); ?>assets/datepicker/moment.js"></script>
+    <script src="<?= base_url(); ?>assets/datepicker/tempusdominus-bootstrap-4.js"></script>
+    <script src="<?= base_url(); ?>assets/datepicker/datepicker.js"></script>
     <script src="<?= base_url(); ?>assets/datepicker/js/bootstrap-datepicker.js"></script>
     <script src="<?= base_url(); ?>assets/datepicker/js/bootstrap-datepicker.min.js"></script>
-    <script src="<?= base_url(); ?>assets/vendor/summernote/js/summernote-bs4.js"></script>
+    <script src="<?= base_url(); ?>assets/summernote/js/summernote-bs4.js"></script>
     <script src="<?= base_url(); ?>assets/bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js"></script>
     <script>
     $(document).ready(function() {
